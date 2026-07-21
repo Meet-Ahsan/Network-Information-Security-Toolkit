@@ -1,258 +1,150 @@
-# \# 🌐 Network Information Security \& Cloud Toolkit
+# 🌐 Network Information Security & Cloud Toolkit
+
+Welcome to my professional GitHub repository focused on **Enterprise Networking, Cloud Technologies, Information Security, Network Automation, Infrastructure Monitoring, and Technical Documentation**.
+
+This repository contains practical projects, automation scripts, network configurations, security implementations, troubleshooting guides, lab exercises, and documentation based on real-world enterprise environments and continuous learning.
+
+---
+
+## 🚀 Areas of Expertise
+
+- Enterprise Networking
+- Cloud Networking (Microsoft Azure)
+- Information Security
+- Network Automation
+- Infrastructure Monitoring
+- Network Troubleshooting
+- Technical Documentation
+
+---
+
+## 💻 Technologies & Platforms
+
+### 🌍 Networking
+
+- Cisco IOS / IOS-XE
+- Cisco Catalyst Switches
+- Cisco ASA Firewalls
+- Fortinet FortiGate Firewalls
+- F5 BIG-IP
+- MikroTik RouterOS
+
+### ☁️ Cloud
+
+- Microsoft Azure
+- Azure Virtual Network (VNet)
+- Site-to-Site VPN
+- Azure Network Security Groups (NSG)
+- Azure Load Balancer
+- Azure Virtual Machines
+
+### 🤖 Automation
+
+- PowerShell
+- Python
+- Ansible
+- Git
+- GitHub
 
-# 
+### 📊 Monitoring
 
-# Welcome to my professional repository focused on Enterprise Networking, Information Security, Cloud Technologies, Automation and Infrastructure Monitoring.
+- Zabbix
+- PRTG Network Monitor
+- SNMP
+- Syslog
 
-# 
+### 🔐 Security
 
-# This repository contains practical projects, automation scripts, security configurations, cloud implementations, troubleshooting guides and documentation based on enterprise environments and lab practice.
+- Firewall Policies
+- Virtual Private Networks (VPN)
+- Access Control Lists (ACL)
+- Network Address Translation (NAT)
+- Intrusion Prevention Systems (IPS)
+- Multi-Factor Authentication (MFA)
+- Network Hardening
 
-# 
+### 🛠️ Tools
 
-# \---
+- Wireshark
+- VMware ESXi
+- EVE-NG
+- GitHub Desktop
+- Visual Studio Code
 
-# 
+---
 
-# \# 🚀 Areas of Expertise
+## 📂 Repository Structure
 
-# 
+```text
+Cisco/
+Fortinet/
+ASA/
+F5/
+MikroTik/
+Azure/
+Automation/
+├── PowerShell/
+├── Python/
+└── Ansible/
+Monitoring/
+├── Zabbix/
+└── PRTG/
+Documentation/
+Network-Diagrams/
+Wireshark/
+Tools/
+Projects/
+```
 
-# \- Enterprise Networking
+---
 
-# \- Cloud Networking (Microsoft Azure)
+## 🎯 Repository Objectives
 
-# \- Information Security
+- Share enterprise networking projects
+- Publish network automation scripts
+- Document information security best practices
+- Build cloud networking labs
+- Share troubleshooting guides
+- Maintain reusable templates
+- Explore emerging technologies
 
-# \- Network Automation
+---
 
-# \- Infrastructure Monitoring
+## 📚 Current Learning Journey
 
-# \- Network Documentation
+- Microsoft Azure
+- Git and GitHub
+- Python for Network Automation
+- Ansible Automation
+- Cloud Networking
+- Enterprise Information Security
 
-# \- Network Troubleshooting
+---
 
-# 
+## 📌 Future Content
 
-# \---
+This repository will continue to grow with:
 
-# 
+- Cisco labs
+- Fortinet labs
+- Azure networking projects
+- Network automation scripts
+- PowerShell projects
+- Python projects
+- Ansible playbooks
+- Monitoring solutions
+- Enterprise documentation
+- Network diagrams
+- Troubleshooting guides
 
-# \# 💻 Technologies
+---
 
-# 
+## 👨‍💻 Author
 
-# \### Networking
+### Hafiz Ahsan Javed
 
-# 
+Enterprise Networking | Cloud Networking | Information Security | Network Automation | Infrastructure Monitoring
 
-# \- Cisco IOS / IOS-XE
+---
 
-# \- Cisco Catalyst
-
-# \- Cisco ASA
-
-# \- Fortinet FortiGate
-
-# \- F5 BIG-IP
-
-# \- MikroTik RouterOS
-
-# 
-
-# \### Cloud
-
-# 
-
-# \- Microsoft Azure
-
-# \- Azure Virtual Network
-
-# \- Site-to-Site VPN
-
-# \- Azure Network Security Groups
-
-# \- Azure Load Balancer
-
-# \- Azure Virtual Machines
-
-# 
-
-# \### Automation
-
-# 
-
-# \- PowerShell
-
-# \- Python
-
-# \- Ansible
-
-# 
-
-# \### Monitoring
-
-# 
-
-# \- Zabbix
-
-# \- PRTG
-
-# \- SNMP
-
-# \- Syslog
-
-# 
-
-# \### Security
-
-# 
-
-# \- VPN
-
-# \- ACL
-
-# \- NAT
-
-# \- IPS
-
-# \- Firewall Policies
-
-# \- MFA
-
-# \- Network Hardening
-
-# 
-
-# \### Tools
-
-# 
-
-# \- Wireshark
-
-# \- VMware ESXi
-
-# \- EVE-NG
-
-# \- Git
-
-# \- GitHub
-
-# 
-
-# \---
-
-# 
-
-# \# 📂 Repository Structure
-
-# 
-
-# ```
-
-# Cisco/
-
-# Fortinet/
-
-# ASA/
-
-# F5/
-
-# MikroTik/
-
-# Azure/
-
-# Automation/
-
-# PowerShell/
-
-# Python/
-
-# Ansible/
-
-# Monitoring/
-
-# Zabbix/
-
-# PRTG/
-
-# Documentation/
-
-# Network-Diagrams/
-
-# Wireshark/
-
-# Tools/
-
-# Projects/
-
-# ```
-
-# 
-
-# \---
-
-# 
-
-# \# 🎯 Objectives
-
-# 
-
-# \- Build Enterprise Network Projects
-
-# \- Share Automation Scripts
-
-# \- Publish Cloud Networking Labs
-
-# \- Document Security Best Practices
-
-# \- Share Troubleshooting Guides
-
-# \- Maintain Reusable Templates
-
-# \- Learn and Explore New Technologies
-
-# 
-
-# \---
-
-# 
-
-# \# 📌 Current Learning
-
-# 
-
-# \- Microsoft Azure
-
-# \- Git \& GitHub
-
-# \- Ansible Automation
-
-# \- Python for Network Automation
-
-# \- Enterprise Security
-
-# \- Cloud Networking
-
-# \- CCIE Encore
-
-# \- CCIE Sec
-
-# \- CISSP
-
-# 
-
-# \---
-
-# 
-
-# \# 👨‍💻 Author
-
-# 
-
-# \*\*Hafiz Ahsan Javed\*\*
-
-# 
-
-# Enterprise Networking | Cloud | Information Security | Automation
-
+⭐ Thank you for visiting this repository.
